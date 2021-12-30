@@ -1,0 +1,17 @@
+{
+    "name": "VController",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4e129475538e614a86032089884942f",
+        "GUID:59e4fa0f777ed45429453f3bae327fa5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
